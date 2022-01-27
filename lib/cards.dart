@@ -1,28 +1,29 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:perseus/api/OutsideFlowerApi.dart';
 import 'package:perseus/icard.dart';
+import 'package:perseus/utils/OutsideFlower.dart';
 
-void main() => runApp(MaterialApp(
-      home: IndexCard(),
-    ));
+import 'utils/OutsideFlowerCards.dart';
 
 /*
- * Klasse zum Erstellen des Karteikarten Screens
+ * Klasse zum Erstellen des Karteikarten Screens für Freiland Blumen
  */
 
 // Global Attributes
 ICard card = ICard('NAME', 'Test latin', 'TestTestTest', 'Something Cool',
-    AssetImage('images/flower_drawing.jpg'), 'draußen');
+    'Giftpflanze, Staude, einjährig', 'draußen');
+
 TextStyle myFontNormal = TextStyle(
-    fontFamily: 'Nunito', fontSize: 19.0, fontWeight: FontWeight.normal);
+    fontFamily: 'Nunito', fontSize: 18.0, fontWeight: FontWeight.normal);
 TextStyle myFontButton = TextStyle(
     fontFamily: 'Nunito', fontSize: 14.0, fontWeight: FontWeight.normal);
 TextStyle myFontTitle = TextStyle(
     fontFamily: 'Nunito', fontSize: 20.0, fontWeight: FontWeight.bold);
 TextStyle myFontSubTitle = TextStyle(
     fontFamily: 'Nunito',
-    fontSize: 15.0,
-    fontWeight: FontWeight.normal,
+    fontSize: 14.0,
+    fontWeight: FontWeight.bold,
     fontStyle: FontStyle.italic);
 
 class IndexCard extends StatefulWidget {
@@ -31,169 +32,112 @@ class IndexCard extends StatefulWidget {
 }
 
 class _IndexCardState extends State<IndexCard> {
+  bool isVisible = false;
+
+  int i = 0;
+  Future<List<OutsideFlower>> flowerList;
+
+  @override
+  void initState() {
+    super.initState();
+    flowerList = OutsideFlowersApi.getOutsideFlowersLocally(context);
+  }
+
   @override
   Widget build(BuildContext context) {
-    //Class Attributes
-    String regularName = card.getRegularName();
-    String botanicName = 'Pflanzus Platzhalterus';
-    String family = 'Coole Pflanzen';
-    String season = 'März-März';
-    // hier Bild Variable für Zeichen einfügen
-    String location = 'sonnig-halbschattig';
-
     return Scaffold(
         appBar: AppBar(
           title: Text(
-            'Karteikarte',
+            'Freilandblumen',
             style: myFontTitle,
           ),
           centerTitle: true,
-          backgroundColor: Colors.green[700],
+          backgroundColor: Colors.green[800],
           elevation: 0.0,
         ),
-        body: Center(
-            child: Column(
-          children: [
-            Container(
-              height: 120.0,
-              width: 120.0,
-              decoration: BoxDecoration(
-                image: DecorationImage(
-                  image: card.sign,
-                  fit: BoxFit.fill,
-                ),
-                shape: BoxShape.rectangle,
-              ),
-            ),
-            SizedBox(
-              height: 10.0,
-            ),
-            Container(
-                // deutscher Name Key
-                alignment: Alignment.center,
-                child: Text(
-                  'Deutscher Name / Handelsname',
-                  style: myFontSubTitle,
-                )),
-            SizedBox(
-              height: 5.0,
-            ),
-            Container(
-                // deutscher Name Wert
-                alignment: Alignment.center,
-                child: Text(
-                  '$regularName',
-                  style: myFontNormal,
-                )),
-            SizedBox(
-              height: 10.0,
-            ),
-            Container(
-                // botanischer Name Key
-                alignment: Alignment.center,
-                child: Text(
-                  'Botanischer Name',
-                  style: myFontSubTitle,
-                )),
-            SizedBox(
-              height: 5.0,
-            ),
-            Container(
-                // botanischer Name Wert
-                alignment: Alignment.center,
-                child: Text(
-                  '$botanicName',
-                  style: myFontNormal,
-                )),
-            SizedBox(
-              height: 10.0,
-            ),
-            Container(
-                // Familie Key
-                alignment: Alignment.center,
-                child: Text(
-                  'Familie',
-                  style: myFontSubTitle,
-                )),
-            SizedBox(
-              height: 5.0,
-            ),
-            Container(
-                // Familie Wert
-                alignment: Alignment.center,
-                child: Text(
-                  '$family',
-                  style: myFontNormal,
-                )),
-            SizedBox(
-              height: 10.0,
-            ),
-            Container(
-                // Saison Key
-                alignment: Alignment.center,
-                child: Text(
-                  'Saison',
-                  style: myFontSubTitle,
-                )),
-            SizedBox(
-              height: 5.0,
-            ),
-            Container(
-                // Saison Wert
-                alignment: Alignment.center,
-                child: Text(
-                  '$season',
-                  style: myFontNormal,
-                )),
-            SizedBox(
-              height: 10.0,
-            ),
-            Container(
-                // Zeichen Key
-                alignment: Alignment.center,
-                child: Text(
-                  'Botanische Zeichen',
-                  style: myFontSubTitle,
-                )),
-            SizedBox(
-              height: 5.0,
-            ),
-            Container(
-              // Zeichen Wert
-              width: 25.0,
-              height: 25.0,
-              alignment: Alignment.center,
-              decoration: BoxDecoration(
-                  image: DecorationImage(
-                    image: card.sign,
-                    fit: BoxFit.fill,
-                  ),
-                  shape: BoxShape.rectangle),
-            ),
-            SizedBox(
-              height: 10.0,
-            ),
-            Container(
-                // Saison Key
-                alignment: Alignment.center,
-                child: Text(
-                  'Standort',
-                  style: myFontSubTitle,
-                )),
-            SizedBox(
-              height: 5.0,
-            ),
-            Container(
-                // Saison Wert
-                alignment: Alignment.center,
-                child: Text(
-                  '$location',
-                  style: myFontNormal,
-                )),
-          ],
-        )));
-  }
-}
+        body: FutureBuilder<List<OutsideFlower>>(
+          future: flowerList,
+          builder: (context, snapshot) {
+            final outsideFlowers = snapshot.data;
 
-//vielleicht mit Array durch die verschiedenen Karten durchloopen
-//und durch Knopf druck die Anzahl im Array erhöhen?
+            switch (snapshot.connectionState) {
+              case ConnectionState.waiting:
+                return Center(child: CircularProgressIndicator());
+              default:
+                if (snapshot.hasError) {
+                  return Center(child: Text('Some error occurred!'));
+                } else {
+                  return buildOutsideFlower(outsideFlowers);
+                }
+            }
+          },
+        ));
+  }
+
+  Widget buildOutsideFlower(List<OutsideFlower> flowers) {
+    //Class Attributes
+
+    return Container(
+        width: MediaQuery.of(context).size.width * 0.9,
+        height: MediaQuery.of(context).size.height * 0.7,
+        // Important to keep as a stack to have overlay of cards.
+        child: Stack(
+          children: new OutsideFlowerCards().getOutsideFlowerCards(flowers, 3),
+        ));
+  }
+/*
+    ButtonBar(
+      alignment: MainAxisAlignment.center,
+      children: [
+        Ink(
+          decoration: const ShapeDecoration(
+            color: Color(0xFF24b576),
+            shape: CircleBorder(),
+          ),
+          child: IconButton(
+            icon: const Icon(Icons.arrow_left),
+            onPressed: () {
+              setState(() {
+                isVisible = false;
+                if (i > 0 && i <= flowers.length) {
+                  i = i - 1;
+                } else {
+                  i = 0;
+                }
+              });
+            },
+            color: Colors.white,
+          ),
+        ),
+        TextButton(
+            onPressed: () {
+              setState(() {
+                isVisible = !isVisible;
+              });
+            },
+            child: Text("show / hide")),
+        Ink(
+          decoration: const ShapeDecoration(
+            color: Color(0xFF24b576),
+            shape: CircleBorder(),
+          ),
+          child: IconButton(
+            icon: const Icon(Icons.arrow_right),
+            onPressed: () {
+              setState(() {
+                isVisible = false;
+                if (i < (flowers.length - 1)) {
+                  i = i + 1;
+                } else {
+                  i = i; //es soll nichts passieren, wenn wir über die Länge hinaus gehen
+                }
+              });
+            },
+            color: Colors.white,
+          ),
+        ),
+      ],
+    );
+  }
+  */
+}

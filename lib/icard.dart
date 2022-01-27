@@ -5,12 +5,13 @@ class ICard {
   String botanicName = 'Pflanzus Platzhalterus';
   String family = 'Coole Pflanzen';
   String season = 'März-März';
-  AssetImage sign = AssetImage('images/code.png');
+  AssetImage image = AssetImage('images/code.png');
+  String sign;
   String location = 'sonnig-halbschattig';
 
   //Constructor
   ICard(String regularName, String botanicName, String family, String season,
-      AssetImage sign, String loaction) {
+      String sign, String loaction) {
     this.regularName = regularName;
     this.botanicName = botanicName;
     this.family = family;
@@ -36,8 +37,12 @@ class ICard {
     return this.season;
   }
 
-  AssetImage getSign() {
+  String getSign() {
     return this.sign;
+  }
+
+  AssetImage getImage(String path) {
+    return AssetImage(path);
   }
 
   String getLocation() {

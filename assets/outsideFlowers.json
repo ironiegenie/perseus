@@ -1,0 +1,803 @@
+[
+    {
+        "TRADE_NAME": "Schönmalve, Samtpappel",
+        "BOTANIC_NAME": "Abutilon Cultivar",
+        "FAMILY": "Malvaceae (Malvengewächse)",
+        "SEASON": "April-September",
+        "SIGN": "Strauch, Kalthauspfanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "abutilon_cultivar"
+    },
+    {
+        "TRADE_NAME": "Mimose, Känguru-Akazie",
+        "BOTANIC_NAME": "Acacia paradoxa",
+        "FAMILY": "Mimosaceae (Mimosengewächse)",
+        "SEASON": "Februar-Mai",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "acacia_paradoxa"
+    },
+    {
+        "TRADE_NAME": "Leberbalsam, Ageratum",
+        "BOTANIC_NAME": "Ageratum houstonianum",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Mai",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "ageratum_houstonianum_blau"
+    },
+    {
+        "TRADE_NAME": "Berg-Anemone, Balkan-Windröschen",
+        "BOTANIC_NAME": "Anemone blanda",
+        "FAMILY": "Ranunculaceae (Hahnenfußgewächse)",
+        "SEASON": "Februar-April",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "halbschattig",
+        "JPG_NAME": "anemone_blanda"
+    },
+    {
+        "TRADE_NAME": "Angelonie",
+        "BOTANIC_NAME": "Angelonia gardneri",
+        "FAMILY": "Scrophulariaceae (Braunwurzgewächse)",
+        "SEASON": "April-Mai",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "angelonia_gardneri"
+    },
+    {
+        "TRADE_NAME": "Löwenmäulchen",
+        "BOTANIC_NAME": "Antirrhinum majus",
+        "FAMILY": "Scrophulariaceae (Braunwurzgewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "antirrhinum_majus"
+    },
+    {
+        "TRADE_NAME": "Strauchmargerite",
+        "BOTANIC_NAME": "Argyranthemum frutescens (Syn. Chrysanthemum frutescens)",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juli",
+        "SIGN": "Halbstrauch, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "argyranthemum_frutescens"
+    },
+    {
+        "TRADE_NAME": "Glattblatt-Aster",
+        "BOTANIC_NAME": "Aster novi-belgii",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "Juli-Oktober",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "aster_novi-belgii"
+    },
+    {
+        "TRADE_NAME": "Sterngold, Goldtaler",
+        "BOTANIC_NAME": "Asteriscus maritimus",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "asteriscus_maritimus"
+    },
+    {
+        "TRADE_NAME": "Blaukissen",
+        "BOTANIC_NAME": "Aubrieta Cultivar",
+        "FAMILY": "Brassicaceae (Kreuzblütler)",
+        "SEASON": "Februar-April",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "aubrieta_cultivar"
+    },
+    {
+        "TRADE_NAME": "Knollen-Begonie",
+        "BOTANIC_NAME": "Begonia Cultivar (Tuberhybrida-Gruppe)",
+        "FAMILY": "Begoniaceae (Schiefblattgewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "halbschattig",
+        "JPG_NAME": "begonia_cultivar"
+    },
+    {
+        "TRADE_NAME": "Gänseblümchen, Bellis",
+        "BOTANIC_NAME": "Bellis perennis",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "Januar- Mai",
+        "SIGN": "zweijährig",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "bellis_perennis"
+    },
+    {
+        "TRADE_NAME": "Blaues Gänseblümchen, Australisches Gänseblümchen",
+        "BOTANIC_NAME": "Brachyscome multifida",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "brachyscome_multifida"
+    },
+    {
+        "TRADE_NAME": "Zierkohl",
+        "BOTANIC_NAME": "Brassica oleracea var. Acephala",
+        "FAMILY": "Brassicaceae (Kreuzblütler)",
+        "SEASON": "August-Oktober",
+        "SIGN": "zweijährig",
+        "LOCATION": "sonnig-schattig",
+        "JPG_NAME": "brassica_oleracea_var_acephala"
+    },
+    {
+        "TRADE_NAME": "Buchsbaum",
+        "BOTANIC_NAME": "Buxus sempervirens",
+        "FAMILY": "Buxaceae (Buchsbaumgewächse)",
+        "SEASON": "Februar-November",
+        "SIGN": "Strauch, Giftpflanze",
+        "LOCATION": "sonnig-schattig",
+        "JPG_NAME": "buxus_sempervirens"
+    },
+    {
+        "TRADE_NAME": "Pantoffelblume",
+        "BOTANIC_NAME": "Calceolaria Cultivar (Fructohybrida-Gruppe)",
+        "FAMILY": "Scrophulariaceae (Braunwurzgewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "calceolaria_cultivar"
+    },
+    {
+        "TRADE_NAME": "Ringelblume",
+        "BOTANIC_NAME": "Calendula officinalis",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "calendula_officinalis"
+    },
+    {
+        "TRADE_NAME": "Calobrachoa, Zauberglöckchen",
+        "BOTANIC_NAME": "Calibrachoa Cultivar",
+        "FAMILY": "Solanaceae (Nachtschattengewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "calibrachoa_cultivar"
+    },
+    {
+        "TRADE_NAME": "Besenheide",
+        "BOTANIC_NAME": "Calluna vulgaris",
+        "FAMILY": "Ericaceae (Heidekrautgewächse)",
+        "SEASON": "August-November",
+        "SIGN": "Strauch",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "calluna_vulgaris"
+    },
+    {
+        "TRADE_NAME": "Karpaten-Glockenblume, Polsterglockenblume",
+        "BOTANIC_NAME": "Campanula carpatica",
+        "FAMILY": "Campanulaceae (Glockenblumengewächse)",
+        "SEASON": "April-September",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "campanula_carpatica"
+    },
+    {
+        "TRADE_NAME": "Blumenrohr",
+        "BOTANIC_NAME": "Canna indica",
+        "FAMILY": "Cannaceae (Blumenrohrgewächse)",
+        "SEASON": "Mai-Juli",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze, Frostfrei überwintern",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "canna_indica"
+    },
+    {
+        "TRADE_NAME": "Hahnenkamm, Celosie",
+        "BOTANIC_NAME": "Celosia argentea (Spicata-Gruppe)",
+        "FAMILY": "Amarathaceae (Amaranthgewächse)",
+        "SEASON": "April-Juli",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "celosia_argentea"
+    },
+    {
+        "TRADE_NAME": "Chrysantheme, Winteraster",
+        "BOTANIC_NAME": "Chrysanthemum x grandiflorum",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "Juli-Oktober",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "chrysanthemum_x_grandiflorum_blau"
+    },
+    {
+        "TRADE_NAME": "Großblumige Clematis, Wladrebe",
+        "BOTANIC_NAME": "Clematis Cultivar",
+        "FAMILY": "Ranunculaceae (Hahnenfußgewächse)",
+        "SEASON": "April-August",
+        "SIGN": "Strauch, Kletterpflanze, Giftpflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "clematis_cultivar"
+    },
+    {
+        "TRADE_NAME": "Maiglöckchen",
+        "BOTANIC_NAME": "Convallaria majalis",
+        "FAMILY": "Convallariaceae (Maiglöckchengewächse)",
+        "SEASON": "April-Mai",
+        "SIGN": "mehrjährige Pflanze, Giftpflanze",
+        "LOCATION": "halbschattig-schattig",
+        "JPG_NAME": "convallaria_majalis"
+    },
+    {
+        "TRADE_NAME": "Netzblattstern, Mädchenauge",
+        "BOTANIC_NAME": "Coreopsis verticillata",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "Mai-September",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "coreopsis_verticillata"
+    },
+    {
+        "TRADE_NAME": "Schmuckkörbchen, Kosmee",
+        "BOTANIC_NAME": "Cosmos bipinnatus",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juli",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "cosmos_bipinnatus"
+    },
+    {
+        "TRADE_NAME": "Krokus",
+        "BOTANIC_NAME": "Crocus vernus",
+        "FAMILY": "Iridaceae (Schwertliliengewächse)",
+        "SEASON": "Januar-März",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "crocus_vernus"
+    },
+    {
+        "TRADE_NAME": "Falsches Heidekraut",
+        "BOTANIC_NAME": "Cuphea hyssopifolia",
+        "FAMILY": "Lythraceae (Weiderichgewächse)",
+        "SEASON": "Mai-September",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "cuphea_hyssopifolia"
+    },
+    {
+        "TRADE_NAME": "Dahlie",
+        "BOTANIC_NAME": "Dahlia Cultivar",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-August",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "dahlia_cultivar_blau"
+    },
+    {
+        "TRADE_NAME": "Rittersporn",
+        "BOTANIC_NAME": "Delphinium Cultivar",
+        "FAMILY": "Ranunculaceae (Hahnenfußgewächse)",
+        "SEASON": "Mai-August",
+        "SIGN": "mehrjährige Pflanze, Giftpflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "delphinium_cultivar"
+    },
+    {
+        "TRADE_NAME": "Kaisernelke, Chinenser Nelke",
+        "BOTANIC_NAME": "Dianthus chinensis",
+        "FAMILY": "Caryophyllaceae (Nelkengewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig, zweijährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "dianthus_chinensis"
+    },
+    {
+        "TRADE_NAME": "Doppelhörnchen",
+        "BOTANIC_NAME": "Diascia Cultivar",
+        "FAMILY": "Scrophulariaceae (Braunwurzgewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "diascia_cultivar"
+    },
+    {
+        "TRADE_NAME": "Sonnenhut",
+        "BOTANIC_NAME": "Echinacea purpurea",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "Juni-August",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "echinacea_purpurea"
+    },
+    {
+        "TRADE_NAME": "Erika, Heide",
+        "BOTANIC_NAME": "Erica gracilis",
+        "FAMILY": "Ericaceae (Heidekrautgewächse)",
+        "SEASON": "August-November",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "erica_gracilis"
+    },
+    {
+        "TRADE_NAME": "Goldlack, Schöterich",
+        "BOTANIC_NAME": "Erysimum Cultivar (Syn. Cheiranthus Cultivar)",
+        "FAMILY": "Brassicaceae (Kreuzblütler)",
+        "SEASON": "März-Juni",
+        "SIGN": "mehrjährige Pflanze, Giftpflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "erysimum_cultivar"
+    },
+    {
+        "TRADE_NAME": "Fuchsie",
+        "BOTANIC_NAME": "Fuchsia Cultivar",
+        "FAMILY": "Onagraceae (Nachkerzengewächse)",
+        "SEASON": "April-Juli",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "halbschattig",
+        "JPG_NAME": "fuchsia_cultivar"
+    },
+    {
+        "TRADE_NAME": "Korallenfuchsie",
+        "BOTANIC_NAME": "Fuchsia triphylla",
+        "FAMILY": "Onagraceae (Nachtkerzengewächse)",
+        "SEASON": "Mai-Juli",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "halbschattig",
+        "JPG_NAME": "fuchsia_triphylla"
+    },
+    {
+        "TRADE_NAME": "Kanarischer Ginster",
+        "BOTANIC_NAME": "Genista canariensis",
+        "FAMILY": "Fabaceae (Schmetterlingsblütler)",
+        "SEASON": "Februar-April",
+        "SIGN": "Strauch, Kalthauspflanze, Giftpflanze, Frostfrei überwintern",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "genista_canariensis"
+    },
+    {
+        "TRADE_NAME": "Strauchveronika",
+        "BOTANIC_NAME": "Hebe Cultivar",
+        "FAMILY": "Scrophulariaceae (Braunwurzgewächse)",
+        "SEASON": "August-November",
+        "SIGN": "Strauch, Kalthauspflanze, Frostfrei überwintern",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "hebe_cultivar"
+    },
+    {
+        "TRADE_NAME": "Sonnenblume",
+        "BOTANIC_NAME": "Helianthus annuus",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "März-Oktober",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "helianthus_annuus_blau"
+    },
+    {
+        "TRADE_NAME": "Lakritz-Strohblume",
+        "BOTANIC_NAME": "Helichrysum petiolare",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "helichrysum_petiolare"
+    },
+    {
+        "TRADE_NAME": "Vanilleblume, Strauchige Sonnenwende, Heliotrop",
+        "BOTANIC_NAME": "Heliotropium arborescens",
+        "FAMILY": "Boragniaceae (Boretschgewächse)",
+        "SEASON": "Apri-Juni",
+        "SIGN": "Halbstrauch, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "heliotropium_arborescens"
+    },
+    {
+        "TRADE_NAME": "Kleinblütiges Purpurglöckchen, Heuchera",
+        "BOTANIC_NAME": "Heuchera micrantha",
+        "FAMILY": "Saxifragaceae (Steinbrechgewächse)",
+        "SEASON": "April-Oktober",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "heuchera_micrantha"
+    },
+    {
+        "TRADE_NAME": "Hibiskus, Roseneibisch",
+        "BOTANIC_NAME": "Hibiscus rosa-sinensis",
+        "FAMILY": "Malvaceae (Malvengewächse)",
+        "SEASON": "Juni-August",
+        "SIGN": "Strauch, Kalthauspflanze, Frostfrei überwintern",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "hibiscus_rosa_sinensis"
+    },
+    {
+        "TRADE_NAME": "Funkie, Herzlilie",
+        "BOTANIC_NAME": "Hosta Cultivar",
+        "FAMILY": "Hostaceae (Funiengewächse)",
+        "SEASON": "April-Juli",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "halbschattig-schattig",
+        "JPG_NAME": "hosta_cultivar"
+    },
+    {
+        "TRADE_NAME": "Houttuynie",
+        "BOTANIC_NAME": "Houttuynia cordata",
+        "FAMILY": "Saururaceae (Molchschwanzgewächse)",
+        "SEASON": "Juli-September",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "halbschattig",
+        "JPG_NAME": "houttuynia_cordata"
+    },
+    {
+        "TRADE_NAME": "Hyazinthe",
+        "BOTANIC_NAME": "Hyacinthus orientalis",
+        "FAMILY": "Hyacinthaceae (Hyazinthengewächse)",
+        "SEASON": "Dezember-Mai",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "hyacinthus_orientalis"
+    },
+    {
+        "TRADE_NAME": "Impatiens",
+        "BOTANIC_NAME": "Impatiens Cultivar (Neuguinea-Gruppe)",
+        "FAMILY": "Balsaminaceae (Balsaminengewächse)",
+        "SEASON": "März-September",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "impatiens_cultivar"
+    },
+    {
+        "TRADE_NAME": "Fleißiges Lieschen",
+        "BOTANIC_NAME": "Impatiens walleriana",
+        "FAMILY": "Balainaceae (Balsaminengewächse)",
+        "SEASON": "April-Juli",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "impatiens_walleriana"
+    },
+    {
+        "TRADE_NAME": "Prunkwinde",
+        "BOTANIC_NAME": "Ipomoea tricolor",
+        "FAMILY": "Convovulaceae (Windengewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig, Kletterpflanze, Giftpflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "ipomoea_tricolor"
+    },
+    {
+        "TRADE_NAME": "Iris",
+        "BOTANIC_NAME": "Iris reticulata",
+        "FAMILY": "Iridaceae (Schwertliliengewächse)",
+        "SEASON": "Februar-März",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "iris_reticulata"
+    },
+    {
+        "TRADE_NAME": "Wandelröschen, Latane",
+        "BOTANIC_NAME": "Lantana camara",
+        "FAMILY": "Verbenaceae (Eisenkrautgewächse)",
+        "SEASON": "April-Juli",
+        "SIGN": "Strauch, Kalthauspflanze, Giftpflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "lantana_camara"
+    },
+    {
+        "TRADE_NAME": "Bechermalve",
+        "BOTANIC_NAME": "Lavatera trimestris",
+        "FAMILY": "Malvaceae (Malvengewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "lavatera_trimestris"
+    },
+    {
+        "TRADE_NAME": "Lavendel",
+        "BOTANIC_NAME": "Lavandula angustifolia",
+        "FAMILY": "Lamiaceae (Lippenblütler)",
+        "SEASON": "April-September",
+        "SIGN": "Halbstrauch",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "lavandula_angustifolia"
+    },
+    {
+        "TRADE_NAME": "Schopflavendel",
+        "BOTANIC_NAME": "Lavandula stoechas",
+        "FAMILY": "Lamiaceae (Lippenblütler)",
+        "SEASON": "April-Juli",
+        "SIGN": "Halbstrauch, Strauch, Kalthauspflanze, Frostfrei überwintern",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "lavandula_stoechas"
+    },
+    {
+        "TRADE_NAME": "Edelweiß",
+        "BOTANIC_NAME": "Leontopodium nivale subsp. Alpinum",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "Mai-September",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "leontopodium_nivale_subsp_alpinum"
+    },
+    {
+        "TRADE_NAME": "Silberdraht",
+        "BOTANIC_NAME": "Leucophyta brownii",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "Mai-Oktober",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "sonnig-schattig",
+        "JPG_NAME": "leucophyta_brownii"
+    },
+    {
+        "TRADE_NAME": "Lobelie",
+        "BOTANIC_NAME": "Lobelia splendens (Syn. Lobelia fulgens)",
+        "FAMILY": "Campanulaceae (Glockenblumengewächse)",
+        "SEASON": "Juni-Juli",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "lobelia_splendens"
+    },
+    {
+        "TRADE_NAME": "Duftsteinrich,Silberkraut",
+        "BOTANIC_NAME": "Lobularia maritima",
+        "FAMILY": "Brassicaceae (Kreuzblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "lobularia_maritima"
+    },
+    {
+        "TRADE_NAME": "Hornklee",
+        "BOTANIC_NAME": "Lotus maculatus",
+        "FAMILY": "Fabaceae (Schmetterlingsblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "Halbstrauch, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "lotus_maculatus"
+    },
+    {
+        "TRADE_NAME": "Enzianstrauch, Blauer Kartoffelstrauch",
+        "BOTANIC_NAME": "Lycianthes rantonnetii",
+        "FAMILY": "Solanaceae (Nactscattengewächse)",
+        "SEASON": "April-Juli",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "lycianthes_rantonnetii"
+    },
+    {
+        "TRADE_NAME": "Mühlenbeckia",
+        "BOTANIC_NAME": "Muehlenbeckia axillaris",
+        "FAMILY": "Polygonaceae (Knöterichgewächse)",
+        "SEASON": "ganzjährig",
+        "SIGN": "Strauch, Kalthauspflanze, Kriechpflanze, Frostfrei überwintern",
+        "LOCATION": "sonnig-schattig",
+        "JPG_NAME": "muehlenbeckia_axillaris"
+    },
+    {
+        "TRADE_NAME": "Vergissmeinnicht",
+        "BOTANIC_NAME": "Myosotis sylvatica",
+        "FAMILY": "Boraginaceae (Boretschgewächse)",
+        "SEASON": "Februar-April",
+        "SIGN": "zweijährig",
+        "LOCATION": "halbschattig",
+        "JPG_NAME": "myosotis_sylvatica"
+    },
+    {
+        "TRADE_NAME": "Elfenspiegel, Nemesie",
+        "BOTANIC_NAME": "Nemesia strumosa",
+        "FAMILY": "Scrophulariaceae (Braunwurzgewächse)",
+        "SEASON": "März-Juli",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "nemesia_strumosa"
+    },
+    {
+        "TRADE_NAME": "Oleander",
+        "BOTANIC_NAME": "Nerium oleander",
+        "FAMILY": "Apocynaceae (Hundsgiftgewächse)",
+        "SEASON": "April-August",
+        "SIGN": "Strauch, Giftpflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "nerium_oleander"
+    },
+    {
+        "TRADE_NAME": "Kapkörbchen, Kapmargerite",
+        "BOTANIC_NAME": "Osteospermum ecklonis",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig, mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "osteospermum_ecklonis"
+    },
+    {
+        "TRADE_NAME": "Sauerklee",
+        "BOTANIC_NAME": "Oxalis triangularis",
+        "FAMILY": "Oxalidaceae (Sauerkleegewächse)",
+        "SEASON": "April-September",
+        "SIGN": "mehrjährige Pflanze, Knollenpflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "oxalis_triangularis"
+    },
+    {
+        "TRADE_NAME": "Geranie",
+        "BOTANIC_NAME": "Pelargonium Cultivar",
+        "FAMILY": "Geraniaceae (Storchschnabelgewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "Halbstrauch, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "pelargonium_cultivar"
+    },
+    {
+        "TRADE_NAME": "Phlox",
+        "BOTANIC_NAME": "Phlox douglasii",
+        "FAMILY": "Polemoniaceae (Lungenkrautgewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "phlox_douglasii"
+    },
+    {
+        "TRADE_NAME": "Kapfuchsie",
+        "BOTANIC_NAME": "Phygelius x rectus",
+        "FAMILY": "Scrophulariaceae (Braunwurzgewächse)",
+        "SEASON": "Mai-Juli",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "phygelius_x_rectus"
+    },
+    {
+        "TRADE_NAME": "Großblütige Ballonblume",
+        "BOTANIC_NAME": "Platycodon grandiflorus",
+        "FAMILY": "Campanulaceae (Glockenblumengewächse)",
+        "SEASON": "Juni-August",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "platycodon_grandiflorus"
+    },
+    {
+        "TRADE_NAME": "Hohe Schlüsselblume",
+        "BOTANIC_NAME": "Primula elatior",
+        "FAMILY": "Primulaceae (Schlüsselblumengewächse)",
+        "SEASON": "März-April",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "halbschattig",
+        "JPG_NAME": "primula_elatior"
+    },
+    {
+        "TRADE_NAME": "Kuhschelle, Küchenschelle",
+        "BOTANIC_NAME": "Pulsatilla vulgaris (Syn. Anemone pulsatilla)",
+        "FAMILY": "Ranunculaceae (Hahnenfußgewächse)",
+        "SEASON": "März-April",
+        "SIGN": "mehrjährige Pflanze, Giftpflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "pulsatilla_vulgaris"
+    },
+    {
+        "TRADE_NAME": "Granatapfel",
+        "BOTANIC_NAME": "Punica granatum",
+        "FAMILY": "Punicaceae (Granatapfelgewächse)",
+        "SEASON": "Mai-Juli",
+        "SIGN": "Strauch, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "punica_granatum"
+    },
+    {
+        "TRADE_NAME": "Ranunkel",
+        "BOTANIC_NAME": "Ranunculus asiaticus",
+        "FAMILY": "Ranunculaceae (Hahnenfußgewächse)",
+        "SEASON": "März-Mai",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze, Frostfrei überwintern",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "ranunculus_asiaticus"
+    },
+    {
+        "TRADE_NAME": "Blut-Salbei, Blut-Salvie",
+        "BOTANIC_NAME": "Salvia coccinea",
+        "FAMILY": "Lamiaceae (Lippenblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "mehrjährige Pflanze, Strauch, Kalthauspflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "salvia_coccinea"
+    },
+    {
+        "TRADE_NAME": "Graues Heiligenkraut",
+        "BOTANIC_NAME": "Santolina chamaecyparissus",
+        "FAMILY": "Asteraceae (Korbbütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "Strauch",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "santolina_chamaecyparissus"
+    },
+    {
+        "TRADE_NAME": "Husarenknopf, Aztekengold",
+        "BOTANIC_NAME": "Sanvitalia speciosa",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "sanvitalia_speciosa"
+    },
+    {
+        "TRADE_NAME": "Polstersteinbrech",
+        "BOTANIC_NAME": "Saxifraga x arendsii",
+        "FAMILY": "Saxifragaceae (Steinbrechgewächse)",
+        "SEASON": "März-April",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "saxifraga_x_arendsii"
+    },
+    {
+        "TRADE_NAME": "Fächerblume",
+        "BOTANIC_NAME": "Scaevola saligna",
+        "FAMILY": "Goodeniaceae (Goodeniengewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "scaevola_saligna"
+    },
+    {
+        "TRADE_NAME": "Fetthenne, Sedum",
+        "BOTANIC_NAME": "Sedum telephium",
+        "FAMILY": "Crassulaceae (Dickblattgewächse)",
+        "SEASON": "August-Oktober",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "sedum_telephium"
+    },
+    {
+        "TRADE_NAME": "Studentenblume, Targetes",
+        "BOTANIC_NAME": "Tagetes tenuifolia",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juni",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "tagetes_tenuifolia"
+    },
+    {
+        "TRADE_NAME": "Schwarzäugige Susanne",
+        "BOTANIC_NAME": "Thunbergia alata",
+        "FAMILY": "Acanthaceae (Akanthusgewächse)",
+        "SEASON": "April-Juli",
+        "SIGN": "einjährig, zweijährig, mehrjährige Pflanze, Kletterpflanze, Kalthauspflanze",
+        "LOCATION": "halbschattig",
+        "JPG_NAME": "thunbergia_alata"
+    },
+    {
+        "TRADE_NAME": "Tulpe",
+        "BOTANIC_NAME": "Tulipa Cultivar",
+        "FAMILY": "Liliaceae (Liliengewächse)",
+        "SEASON": "Februar-April",
+        "SIGN": "mehrjährige Pflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "tulipa_cultivar"
+    },
+    {
+        "TRADE_NAME": "Verbene, Eisenkraut",
+        "BOTANIC_NAME": "Verbena Cultivar",
+        "FAMILY": "Verbenaceae (Eisenkrautgewächse)",
+        "SEASON": "April-Juni",
+        "SIGN": "mehrjährige Pflanze, Kalthauspflanze",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "verbena_cultivar"
+    },
+    {
+        "TRADE_NAME": "Stiefmütterchen",
+        "BOTANIC_NAME": "Viola x wittrockiana",
+        "FAMILY": "Violaceae (Veilchengewächse)",
+        "SEASON": "Februar-April",
+        "SIGN": "zweijährig",
+        "LOCATION": "sonnig-halbschattig",
+        "JPG_NAME": "viola_x_wittrockiana"
+    },
+    {
+        "TRADE_NAME": "Garten-Strohblume",
+        "BOTANIC_NAME": "Xerochrysum bracteatum",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juli",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "xerochrysum_bracteatum"
+    },
+    {
+        "TRADE_NAME": "Garten-Zinnie",
+        "BOTANIC_NAME": "Zinnia elegans",
+        "FAMILY": "Asteraceae (Korbblütler)",
+        "SEASON": "April-Juli",
+        "SIGN": "einjährig",
+        "LOCATION": "sonnig",
+        "JPG_NAME": "zinnia_elegans"
+    }
+]

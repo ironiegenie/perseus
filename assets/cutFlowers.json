@@ -1,0 +1,282 @@
+[
+        {
+            "TRADE_NAME": "Zinnie (Garten-Zinnie)",
+            "BOTANIC_NAME": "Zinnia elegans",
+            "FAMILY": "Asteraceae (Korbblütler)",
+            "SEASON": "Juli-Oktober",
+            "SIGN": "einjährig"
+        },
+        {
+            "TRADE_NAME": "Astranzie (Große Sterndolde)",
+            "BOTANIC_NAME": "Astrantia major",
+            "FAMILY": "Apiaceae (Doldengewächse)",
+            "SEASON": "März-August",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Hyazinthe",
+            "BOTANIC_NAME": "Hyacinthus orientalis",
+            "FAMILY": "Hyacinthaceae (Hyazinthengewächse)",
+            "SEASON": "Januar-Mai",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Ranunkel",
+            "BOTANIC_NAME": "Ranunculus asiaticus",
+            "FAMILY": "Ranunculaceae (Hahnenfußgewächse)",
+            "SEASON": "Januar-Mai",
+            "SIGN": "Staude, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Christrose",
+            "BOTANIC_NAME": "Helleborus niger",
+            "FAMILY": "Ranunculaceae (Hahnenfußgewächse)",
+            "SEASON": "Okober-Februar",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Freesie",
+            "BOTANIC_NAME": "Freesia Cultivar",
+            "FAMILY": "Iridaceae (Schwertliliengewächse)",
+            "SEASON": "Februar-August",
+            "SIGN": "Staude, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Osterglocke",
+            "BOTANIC_NAME": "Narcissus pseudonarcissus",
+            "FAMILY": "Amaryllidaceae (Amaryllisgewächse)",
+            "SEASON": "Januar-April",
+            "SIGN": "Staude, Giftpflanze"
+        },
+        {
+            "TRADE_NAME": "Narzisse",
+            "BOTANIC_NAME": "Narcissus cyclam 'Tete-a-tete'",
+            "FAMILY": "Amaryllidaceae (Amaryllisgewächse)",
+            "SEASON": "Januar-April",
+            "SIGN": "Staude, Giftpflanze"
+        },
+        {
+            "TRADE_NAME": "Tulpe",
+            "BOTANIC_NAME": "Tulipa Cultivar",
+            "FAMILY": "Liliaceae (Liliengewächse)",
+            "SEASON": "Januar-Mai",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Wachsflower, Zitronenkraut",
+            "BOTANIC_NAME": "Chamelaucium unicinatum",
+            "FAMILY": "Myrtaceae (Myrtengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Strauch, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Anthurie, Flamingoblume",
+            "BOTANIC_NAME": "Anthurium andraeanum",
+            "FAMILY": "Araceae (Aronstabgewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Staude, Warmhauspflanze"
+        },
+        {
+            "TRADE_NAME": "Maiglöckchen",
+            "BOTANIC_NAME": "Convallaria majalis",
+            "FAMILY": "Convallariaceae (Maiglöckchengewächse)",
+            "SEASON": "Mai",
+            "SIGN": "Staude, Giftpflanze"
+        },
+        {
+            "TRADE_NAME": "Vergissmeinnicht",
+            "BOTANIC_NAME": "Myosotis Cultivar",
+            "FAMILY": "Boraginaceae (Boretschgewächse)",
+            "SEASON": "März-Mai",
+            "SIGN": "zweijährig"
+        },
+        {
+            "TRADE_NAME": "Löwenmäulchen",
+            "BOTANIC_NAME": "Antirrhinum majus",
+            "FAMILY": "Scrophulariaceae (Braunwurzgewächse)",
+            "SEASON": "Juni-September",
+            "SIGN": "einjährig"
+        },
+        {
+            "TRADE_NAME": "Gerbera",
+            "BOTANIC_NAME": "Gerbera jamesonii",
+            "FAMILY": "Asteraceae (Korbblütler)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Strauch, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Lysianthus, Eustoma",
+            "BOTANIC_NAME": "Eustoma grandiflorum",
+            "FAMILY": "Gentianaceae (Enziangewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "zweijährig, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Rose",
+            "BOTANIC_NAME": "Rosa Cultivar",
+            "FAMILY": "Rosaceae (Rosengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Halbstrauch"
+        },
+        {
+            "TRADE_NAME": "Alstromerie, Inkalilie",
+            "BOTANIC_NAME": "Alstroemeria Cultivar",
+            "FAMILY": "Alstromeriaceae (Alstromeriengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Hortensie",
+            "BOTANIC_NAME": "Hydrangea macrophylla",
+            "FAMILY": "Hydrangeaceae (Hortensiengewächse)",
+            "SEASON": "Mai-Oktober",
+            "SIGN": "Strauch, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Lilie",
+            "BOTANIC_NAME": "Lilium Cultivar",
+            "FAMILY": "Liliaceae (Liliengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Langblumige Lilie, Osterlilie",
+            "BOTANIC_NAME": "Lilium longiflorum",
+            "FAMILY": "Liliaceae (Liliengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Staude, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Edelnelke, Nelke",
+            "BOTANIC_NAME": "Dianthus caryophyllus",
+            "FAMILY": "Caryophyllaceae (Nelkengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Bart-Nelke, Gras-Nelke",
+            "BOTANIC_NAME": "Dianthus barbatus",
+            "FAMILY": "Caryophyllaceae (Nelkengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "zweijährig"
+        },
+        {
+            "TRADE_NAME": "Trommelschlägel",
+            "BOTANIC_NAME": "Craspedia globosa",
+            "FAMILY": "Asteraceae (Korbblütler)",
+            "SEASON": "Juni-September",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Chrysantheme",
+            "BOTANIC_NAME": "Chrysanthemum x grandiflorum",
+            "FAMILY": "Asteraceae (Korbblütler)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Aster, Sommeraster",
+            "BOTANIC_NAME": "Callistephus chinensis",
+            "FAMILY": "Asteraceae (Korbblütler)",
+            "SEASON": "Juni-September",
+            "SIGN": "einjährig"
+        },
+        {
+            "TRADE_NAME": "Färber-Distel",
+            "BOTANIC_NAME": "Carthamus tinctorius",
+            "FAMILY": "Asteraceae (Korbblütler)",
+            "SEASON": "Juni-August",
+            "SIGN": "einjährig, Giftpflanze"
+        },
+        {
+            "TRADE_NAME": "Kängurublume, Kängurufuß, Kängurupfote",
+            "BOTANIC_NAME": "Anigozanthos Cultivar",
+            "FAMILY": "Haemodoraceae (Hämodoragewächse)",
+            "SEASON": "März-Juni",
+            "SIGN": "Staude, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Frauenschuh, Venusschuh",
+            "BOTANIC_NAME": "Paphiopedilum Cultivar",
+            "FAMILY": "Orchidaceae (Orchideengewächse)",
+            "SEASON": "August-April",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Helikonie",
+            "BOTANIC_NAME": "Heliconia wagneriana",
+            "FAMILY": "Heliconiaceae (Helikoniengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Staude, Warmhauspflanze"
+        },
+        {
+            "TRADE_NAME": "Sonnenblume",
+            "BOTANIC_NAME": "Helianthus annuus",
+            "FAMILY": "Asteraceae (Korbblütler)",
+            "SEASON": "Juli-Oktober",
+            "SIGN": "einjährig"
+        },
+        {
+            "TRADE_NAME": "Gladiole",
+            "BOTANIC_NAME": "Gladiolus Cultivar",
+            "FAMILY": "Iridaceae (Schwertliliengewächse)",
+            "SEASON": "Mai-September",
+            "SIGN": "Staude, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Dahlie",
+            "BOTANIC_NAME": "Dahlia Cultivar",
+            "FAMILY": "Asteraceae (Korbblütler)",
+            "SEASON": "Juli-Oktober",
+            "SIGN": "Staude, Warmhauspflanze"
+        },
+        {
+            "TRADE_NAME": "Kalla",
+            "BOTANIC_NAME": "Zantedeschia Cultivar",
+            "FAMILY": "Araceae (Aronstabgewächse)",
+            "SEASON": "Mai-September",
+            "SIGN": "Staude, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Weiße Kalla, Zimmerkalla",
+            "BOTANIC_NAME": "Zantedeschia aethiopica",
+            "FAMILY": "Araceae (Aronstabgewächse)",
+            "SEASON": "Januar-Juni",
+            "SIGN": "Staude, Kalthauspflanze"
+        },
+        {
+            "TRADE_NAME": "Allium, Zierlauch",
+            "BOTANIC_NAME": "Allium aflatunense",
+            "FAMILY": "Alliaceae (Lauchgewächse)",
+            "SEASON": "April-Juli",
+            "SIGN": "Staude"
+        },
+        {
+            "TRADE_NAME": "Fuchsschwanz",
+            "BOTANIC_NAME": "Amaranthus caudatus",
+            "FAMILY": "Amaranthaceae (Amaranthgewächse)",
+            "SEASON": "April-September",
+            "SIGN": "einjährig"
+        },
+        {
+            "TRADE_NAME": "Hahnenkamm, Celosie",
+            "BOTANIC_NAME": "Celosia argentea (Syn. Celosia cristata)",
+            "FAMILY": "Amaranthaceae (Amaranthgewächse)",
+            "SEASON": "Mai-Oktober",
+            "SIGN": "einjährig"
+        },
+        {
+            "TRADE_NAME": "Blaues Halskraut",
+            "BOTANIC_NAME": "Trachelium caeruleum",
+            "FAMILY": "Campanulaceae (Glockenblumengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Staude, Kalthauspflanze, Giftpflanze"
+        },
+        {
+            "TRADE_NAME": "Paradiesvogelblume",
+            "BOTANIC_NAME": "Strelitzia reginae",
+            "FAMILY": "Strelitziaceae (Strelitziengewächse)",
+            "SEASON": "ganzjährig",
+            "SIGN": "Staude, Kalthauspflanze"
+        }
+    ]
